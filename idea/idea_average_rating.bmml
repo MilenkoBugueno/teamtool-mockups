@@ -73,19 +73,19 @@
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="869" y="407" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>13421772</color>
+        <color>16767334</color>
         <icon>StarIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="885" y="407" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>13421772</color>
+        <color>16767334</color>
         <icon>StarIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::Icon" x="901" y="407" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>13421772</color>
+        <color>16767334</color>
         <icon>StarIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
@@ -104,7 +104,7 @@
     <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="955" y="405" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
-        <text>%28%20Votes%3A%200%20%29</text>
+        <text>%28%20Votes%3A%207%20%29</text>
       </controlProperties>
     </control>
     <control controlID="21" controlTypeID="com.balsamiq.mockups::Icon" x="989" y="437" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="18" locked="false" isInGroup="-1">
