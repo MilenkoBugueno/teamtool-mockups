@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1192" measuredH="687" mockupW="1192" mockupH="687">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="0" w="1192" h="49" measuredW="1015" measuredH="29" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%09%09%09Teamtool%09%20%20Workspace%09%09%09%09%09%09%09%09%09%09Hello%20Name%09%09Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="853" y="16" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GearIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::LinkBar" x="492" y="668" w="-1" h="-1" measuredW="197" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Teamtool%20V0.1%2C%20Github%2C%20Issues</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
