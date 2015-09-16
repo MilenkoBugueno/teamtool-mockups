@@ -1,0 +1,83 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1187" measuredH="621" mockupW="1187" mockupH="621">
+  <controls>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::HRule" x="6" y="533" w="1181" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::LinkBar" x="498" y="602" w="-1" h="-1" measuredW="197" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Teamtool%20V0.1%2C%20Github%2C%20Issues</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="__group__" x="0" y="0" w="1020" h="49" measuredW="1020" measuredH="49" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="0" w="1020" h="49" measuredW="1015" measuredH="29" zOrder="0" locked="false" isInGroup="126">
+          <controlProperties>
+            <text>%09%09%09teamtool%09Home%20%09%20%20%20Ideas%20%20%20%20%20%20%20Training%20catalog%20%20%20%20%20%20%20My%20Training%20%20%09%09%09%09%09Hello%20Milenko%09%09Logout</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="865" y="16" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="126">
+          <controlProperties>
+            <icon>GearIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Canvas" x="129" y="102" w="642" h="485" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Button" x="579" y="64" w="192" h="32" measuredW="176" measuredH="27" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <state>disabled</state>
+        <text>Create%20New%20Training%20Card</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::TextArea" x="151" y="218" w="583" h="140" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Label" x="152" y="198" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::TabBar" x="151" y="366" w="583" h="181" measuredW="275" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Apprentice%2C%20Journeyman%2C%20Master</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::ComboBox" x="648" y="152" w="108" h="-1" measuredW="73" measuredH="62" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Default%0ATOM-07%0ATOM-01</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Label" x="648" y="124" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Template</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::TextInput" x="155" y="152" w="404" h="-1" measuredW="79" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Label" x="159" y="127" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Title</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Button" x="659" y="552" w="58" h="27" measuredW="52" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Button" x="591" y="552" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
